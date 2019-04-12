@@ -17,5 +17,7 @@ We provide the models, scripts for experiments execution, test cases, mutants an
 	(1.3) A file to execute test cases (TestCaseExecution.m). It provides a small interface so that the user can easily execute test cases.
 	
 	(1.4) A folder named "Mutants" with the final set of derived mutants.
+	
+	(1.5) Scripts to launch the experiments
 
 (2) The folder "Results" provides for each case study the raw data related to the results obtained in the empirical evaluation. The fortmat is the following ALGORITHM_CONFIGURATION.txt, where the ALGORITHM is the selected algorithm and configuration is the selected fitness function (e.g., GA_c3 is the NSGA-II algorithm for the c3 combination (Growth to infinity and TET objectives). 
