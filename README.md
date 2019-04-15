@@ -21,3 +21,7 @@ We provide the models, scripts for experiments execution, test cases, mutants an
 	(1.5) Scripts to launch the experiments
 
 (2) The folder "Results" provides for each case study the raw data related to the results obtained in the empirical evaluation. The fortmat is the following ALGORITHM_CONFIGURATION.txt, where the ALGORITHM is the selected algorithm and configuration is the selected fitness function (e.g., GA_c3 is the NSGA-II algorithm for the c3 combination (Growth to infinity and TET objectives). 
+
+(3) Some case studies need to download some large files that could not be able to upload on github. This is the example for the EMB case study. To download this, refer to this link (to be updated regularly):
+
+https://www.dropbox.com/sh/wmw8vokg86cyyd8/AADV8p5DXWFbPKBXTvUAaZtNa?dl=0
